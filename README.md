@@ -1,4 +1,4 @@
-# No Side Quests
+# ⚔️ No Side Quests
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin that keeps you focused on your project's main quest.
 
