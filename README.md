@@ -27,30 +27,12 @@ The guardian is advisory, never blocking. If you decide to proceed with a side q
 
 ## Installation
 
-Add the plugin to your Claude Code setup:
+Install from the marketplace in Claude Code:
 
-1. Clone this repo somewhere convenient
-2. Register it in `~/.claude/settings.json`:
-   ```json
-   {
-     "enabledPlugins": {
-       "no-sidequests@no-sidequests": true
-     }
-   }
-   ```
-3. Add the install path to `~/.claude/plugins/installed_plugins.json`:
-   ```json
-   {
-     "no-sidequests@no-sidequests": [
-       {
-         "scope": "user",
-         "installPath": "/path/to/no-sidequests",
-         "version": "0.1.0"
-       }
-     ]
-   }
-   ```
-4. Restart Claude Code
+```
+/plugin marketplace add IcyWednesdays/no-sidequests
+/plugin install no-sidequests@no-sidequests
+```
 
 ## What's in the Box
 
