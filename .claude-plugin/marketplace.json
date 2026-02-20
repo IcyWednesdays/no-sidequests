@@ -1,0 +1,16 @@
+{
+  "name": "no-sidequests",
+  "owner": {
+    "name": "Matt"
+  },
+  "plugins": [
+    {
+      "name": "no-sidequests",
+      "source": "./",
+      "description": "Keeps you on track with your project roadmap. Creates a per-repo main quest file and auto-checks alignment during planning sessions.",
+      "version": "0.1.0",
+      "category": "skills",
+      "tags": ["planning", "roadmap", "scope", "focus"]
+    }
+  ]
+}
