@@ -86,7 +86,6 @@ Side quests you knowingly accepted, with dates and rationale.
 
 - **Advisory, never blocking.** The plugin gives opinions, not orders. You always have the final say.
 - **Scope awareness, not scope rigidity.** Projects evolve. When you accept a side quest, the quest log updates to reflect the new reality.
-- **Fun framing, serious analysis.** The RPG terminology keeps things light, but the alignment checks are grounded in your actual roadmap and vision.
 
 ## License
 
