@@ -1,0 +1,10 @@
+{
+  "name": "no-sidequests",
+  "version": "0.1.0",
+  "description": "Keeps you on track with your project roadmap. Creates a per-repo main quest file and auto-checks alignment during planning sessions.",
+  "author": {
+    "name": "Matt"
+  },
+  "license": "MIT",
+  "keywords": ["planning", "roadmap", "scope", "focus"]
+}
